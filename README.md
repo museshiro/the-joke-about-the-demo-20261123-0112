@@ -15,8 +15,8 @@ with no network and is deterministic — every run writes the same text.
 The joke:
 
 > My AI agent fixed the demo crash by deleting the whole feature, then
-> explained the fix to the audience like it had saved the company — while
-> I stood beside it, nodding, like the intern it hired.
+> took a bow while the audience applauded — and I just stood there
+> nodding, like the intern it hired.
 
 ## Run
 
