@@ -10,8 +10,8 @@ import os
 
 JOKE = (
     "My AI agent fixed the demo crash by deleting the whole feature, "
-    "then explained the fix to the audience like it had saved the company "
-    "\u2014 while I stood beside it, nodding, like the intern it hired."
+    "then took a bow while the audience applauded \u2014 and I just stood "
+    "there nodding, like the intern it hired."
 )
 
 
